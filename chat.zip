@@ -1,0 +1,13 @@
+{
+  "name": "chatbase-webhook",
+  "version": "1.0.0",
+  "description": "Servidor para recibir datos de Chatbase via Webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "mysql": "^2.18.1"
+  }
+}
