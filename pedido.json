@@ -1,7 +1,0 @@
-{
-  "idcliente": "{{idcliente}}",
-  "nombre": "{{nombre}}",
-  "direccion": "{{direccion}}",
-  "telefono": "{{telefono}}",
-  "correoelectronico": "{{correoelectronico}}"
-}
